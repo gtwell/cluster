@@ -5,7 +5,7 @@ else:
     import xml.etree.ElementTree as ET
 
 import cv2
-import numpy as np
+import ipdb
 
 def xml_transform(target):
     """args:
@@ -41,12 +41,13 @@ def plot_rec(img, res, i):
 
     img = cv2.imread(img)
     # (0, 255, 0) color, 2 linewidth
-    cv2.rectangle(img, tuple(res[0][:2]), tuple(res[0][2:4]), (0, 255, 0), 2)
+    for j in range(len(res)):
+        cv2.rectangle(img, tuple(res[j][:2]), tuple(res[j][2:4]), (0, 255, 0), 2)
     # cv2.rectangle(img, (100, 100), (200, 200), (0, 255, 0), 3)
     # cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
-    cv2.imshow("Image", img)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    # cv2.imshow("Image", img)
+    # cv2.waitKey(0)
+    # cv2.destroyAllWindows()
 
     save_dir = './plot/'
     if not os.path.exists(save_dir):
