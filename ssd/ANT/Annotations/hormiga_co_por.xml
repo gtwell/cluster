@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ants</folder>
+	<filename>hormiga_co_por.jpg</filename>
+	<path>/home/guo/guo/data/hymenoptera_data/train/ants/hormiga_co_por.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>43</ymin>
+			<xmax>250</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

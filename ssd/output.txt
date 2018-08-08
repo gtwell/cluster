@@ -1,0 +1,486 @@
+0 torch.Size([3, 512, 768]) 
+
+1 torch.Size([3, 333, 500]) 
+
+2 torch.Size([3, 333, 500]) 
+
+3 torch.Size([3, 333, 500]) 
+
+4 torch.Size([3, 282, 500]) 
+
+5 torch.Size([3, 500, 464]) 
+
+6 torch.Size([3, 335, 500]) 
+
+7 torch.Size([3, 348, 500]) 
+
+8 torch.Size([3, 321, 500]) 
+
+9 torch.Size([3, 375, 500]) 
+
+10 torch.Size([3, 500, 500]) 
+
+11 torch.Size([3, 333, 500]) 
+
+12 torch.Size([3, 375, 500]) 
+
+13 torch.Size([3, 434, 500]) 
+
+14 torch.Size([3, 333, 500]) 
+
+15 torch.Size([3, 375, 500]) 
+
+16 torch.Size([3, 365, 500]) 
+
+17 torch.Size([3, 334, 500]) 
+
+18 torch.Size([3, 375, 500]) 
+
+19 torch.Size([3, 375, 500]) 
+
+20 torch.Size([3, 500, 441]) 
+
+21 torch.Size([3, 375, 500]) 
+
+22 torch.Size([3, 400, 500]) 
+
+23 torch.Size([3, 375, 500]) 
+
+24 torch.Size([3, 333, 500]) 
+
+25 torch.Size([3, 375, 500]) 
+
+26 torch.Size([3, 374, 500]) 
+
+27 torch.Size([3, 334, 500]) 
+
+28 torch.Size([3, 496, 343]) 
+
+29 torch.Size([3, 356, 500]) 
+
+30 torch.Size([3, 333, 500]) 
+
+31 torch.Size([3, 415, 500]) 
+
+32 torch.Size([3, 330, 500]) 
+
+33 torch.Size([3, 450, 500]) 
+
+34 torch.Size([3, 500, 475]) 
+
+35 torch.Size([3, 333, 500]) 
+
+36 torch.Size([3, 412, 500]) 
+
+37 torch.Size([3, 289, 500]) 
+
+38 torch.Size([3, 359, 479]) 
+
+39 torch.Size([3, 462, 500]) 
+
+40 torch.Size([3, 375, 500]) 
+
+41 torch.Size([3, 314, 500]) 
+
+42 torch.Size([3, 500, 486]) 
+
+43 torch.Size([3, 375, 500]) 
+
+44 torch.Size([3, 361, 500]) 
+
+45 torch.Size([3, 423, 500]) 
+
+46 torch.Size([3, 400, 500]) 
+
+47 torch.Size([3, 333, 500]) 
+
+48 torch.Size([3, 375, 500]) 
+
+49 torch.Size([3, 375, 500]) 
+
+50 torch.Size([3, 375, 500]) 
+
+51 torch.Size([3, 375, 500]) 
+
+52 torch.Size([3, 333, 500]) 
+
+53 torch.Size([3, 375, 500]) 
+
+54 torch.Size([3, 236, 500]) 
+
+55 torch.Size([3, 414, 500]) 
+
+56 torch.Size([3, 500, 444]) 
+
+57 torch.Size([3, 334, 500]) 
+
+58 torch.Size([3, 500, 311]) 
+
+59 torch.Size([3, 375, 500]) 
+
+60 torch.Size([3, 374, 500]) 
+
+61 torch.Size([3, 375, 500]) 
+
+62 torch.Size([3, 334, 500]) 
+
+63 torch.Size([3, 375, 500]) 
+
+64 torch.Size([3, 333, 500]) 
+
+65 torch.Size([3, 409, 500]) 
+
+66 torch.Size([3, 409, 500]) 
+
+67 torch.Size([3, 434, 500]) 
+
+68 torch.Size([3, 334, 500]) 
+
+69 torch.Size([3, 500, 500]) 
+
+70 torch.Size([3, 500, 500]) 
+
+71 torch.Size([3, 333, 500]) 
+
+72 torch.Size([3, 333, 500]) 
+
+73 torch.Size([3, 333, 500]) 
+
+74 torch.Size([3, 333, 500]) 
+
+75 torch.Size([3, 313, 500]) 
+
+76 torch.Size([3, 500, 375]) 
+
+77 torch.Size([3, 333, 500]) 
+
+78 torch.Size([3, 500, 333]) 
+
+79 torch.Size([3, 500, 369]) 
+
+80 torch.Size([3, 375, 500]) 
+
+81 torch.Size([3, 333, 500]) 
+
+82 torch.Size([3, 333, 500]) 
+
+83 torch.Size([3, 325, 500]) 
+
+84 torch.Size([3, 291, 500]) 
+
+85 torch.Size([3, 500, 333]) 
+
+86 torch.Size([3, 375, 500]) 
+
+87 torch.Size([3, 500, 500]) 
+
+88 torch.Size([3, 410, 500]) 
+
+89 torch.Size([3, 494, 500]) 
+
+90 torch.Size([3, 338, 500]) 
+
+91 torch.Size([3, 500, 458]) 
+
+92 torch.Size([3, 344, 500]) 
+
+93 torch.Size([3, 333, 500]) 
+
+94 torch.Size([3, 355, 500]) 
+
+95 torch.Size([3, 357, 500]) 
+
+96 torch.Size([3, 423, 500]) 
+
+97 torch.Size([3, 500, 357]) 
+
+98 torch.Size([3, 377, 500]) 
+
+99 torch.Size([3, 387, 311]) 
+
+100 torch.Size([3, 436, 500]) 
+
+101 torch.Size([3, 333, 500]) 
+
+102 torch.Size([3, 333, 500]) 
+
+103 torch.Size([3, 364, 500]) 
+
+104 torch.Size([3, 333, 500]) 
+
+105 torch.Size([3, 333, 500]) 
+
+106 torch.Size([3, 333, 500]) 
+
+107 torch.Size([3, 447, 500]) 
+
+108 torch.Size([3, 375, 500]) 
+
+109 torch.Size([3, 500, 367]) 
+
+110 torch.Size([3, 310, 500]) 
+
+111 torch.Size([3, 482, 500]) 
+
+112 torch.Size([3, 363, 500]) 
+
+113 torch.Size([3, 500, 500]) 
+
+114 torch.Size([3, 333, 500]) 
+
+115 torch.Size([3, 375, 500]) 
+
+116 torch.Size([3, 333, 500]) 
+
+117 torch.Size([3, 375, 500]) 
+
+118 torch.Size([3, 429, 486]) 
+
+119 torch.Size([3, 319, 500]) 
+
+120 torch.Size([3, 375, 500]) 
+
+121 torch.Size([3, 451, 500]) 
+
+122 torch.Size([3, 318, 500]) 
+
+123 torch.Size([3, 352, 500]) 
+
+124 torch.Size([3, 375, 500]) 
+
+125 torch.Size([3, 345, 500]) 
+
+126 torch.Size([3, 400, 500]) 
+
+127 torch.Size([3, 500, 441]) 
+
+128 torch.Size([3, 364, 500]) 
+
+129 torch.Size([3, 470, 500]) 
+
+130 torch.Size([3, 333, 500]) 
+
+131 torch.Size([3, 352, 500]) 
+
+132 torch.Size([3, 375, 500]) 
+
+133 torch.Size([3, 333, 500]) 
+
+134 torch.Size([3, 500, 383]) 
+
+135 torch.Size([3, 334, 500]) 
+
+136 torch.Size([3, 375, 500]) 
+
+137 torch.Size([3, 500, 375]) 
+
+138 torch.Size([3, 333, 500]) 
+
+139 torch.Size([3, 375, 500]) 
+
+140 torch.Size([3, 375, 500]) 
+
+141 torch.Size([3, 377, 500]) 
+
+142 torch.Size([3, 371, 500]) 
+
+143 torch.Size([3, 500, 411]) 
+
+144 torch.Size([3, 375, 500]) 
+
+145 torch.Size([3, 332, 500]) 
+
+146 torch.Size([3, 173, 500]) 
+
+147 torch.Size([3, 500, 399]) 
+
+148 torch.Size([3, 500, 488]) 
+
+149 torch.Size([3, 358, 500]) 
+
+150 torch.Size([3, 384, 500]) 
+
+151 torch.Size([3, 333, 500]) 
+
+152 torch.Size([3, 332, 500]) 
+
+153 torch.Size([3, 366, 500]) 
+
+154 torch.Size([3, 333, 500]) 
+
+155 torch.Size([3, 356, 500]) 
+
+156 torch.Size([3, 316, 500]) 
+
+157 torch.Size([3, 333, 500]) 
+
+158 torch.Size([3, 375, 500]) 
+
+159 torch.Size([3, 333, 500]) 
+
+160 torch.Size([3, 500, 333]) 
+
+161 torch.Size([3, 407, 500]) 
+
+162 torch.Size([3, 333, 500]) 
+
+163 torch.Size([3, 333, 500]) 
+
+164 torch.Size([3, 333, 500]) 
+
+165 torch.Size([3, 484, 500]) 
+
+166 torch.Size([3, 374, 500]) 
+
+167 torch.Size([3, 407, 500]) 
+
+168 torch.Size([3, 444, 500]) 
+
+169 torch.Size([3, 441, 500]) 
+
+170 torch.Size([3, 374, 500]) 
+
+171 torch.Size([3, 343, 500]) 
+
+172 torch.Size([3, 333, 500]) 
+
+173 torch.Size([3, 432, 500]) 
+
+174 torch.Size([3, 333, 500]) 
+
+175 torch.Size([3, 500, 333]) 
+
+176 torch.Size([3, 500, 333]) 
+
+177 torch.Size([3, 372, 500]) 
+
+178 torch.Size([3, 370, 500]) 
+
+179 torch.Size([3, 397, 500]) 
+
+180 torch.Size([3, 313, 500]) 
+
+181 torch.Size([3, 333, 500]) 
+
+182 torch.Size([3, 333, 500]) 
+
+183 torch.Size([3, 387, 500]) 
+
+184 torch.Size([3, 466, 500]) 
+
+185 torch.Size([3, 339, 500]) 
+
+186 torch.Size([3, 400, 500]) 
+
+187 torch.Size([3, 411, 500]) 
+
+188 torch.Size([3, 375, 500]) 
+
+189 torch.Size([3, 500, 487]) 
+
+190 torch.Size([3, 332, 500]) 
+
+191 torch.Size([3, 333, 500]) 
+
+192 torch.Size([3, 500, 417]) 
+
+193 torch.Size([3, 375, 500]) 
+
+194 torch.Size([3, 239, 500]) 
+
+195 torch.Size([3, 333, 500]) 
+
+196 torch.Size([3, 333, 500]) 
+
+197 torch.Size([3, 402, 500]) 
+
+198 torch.Size([3, 432, 500]) 
+
+199 torch.Size([3, 375, 500]) 
+
+200 torch.Size([3, 375, 500]) 
+
+201 torch.Size([3, 375, 500]) 
+
+202 torch.Size([3, 369, 500]) 
+
+203 torch.Size([3, 181, 500]) 
+
+204 torch.Size([3, 369, 500]) 
+
+205 torch.Size([3, 146, 500]) 
+
+206 torch.Size([3, 500, 500]) 
+
+207 torch.Size([3, 500, 375]) 
+
+208 torch.Size([3, 328, 500]) 
+
+209 torch.Size([3, 333, 500]) 
+
+210 torch.Size([3, 366, 500]) 
+
+211 torch.Size([3, 375, 500]) 
+
+212 torch.Size([3, 375, 500]) 
+
+213 torch.Size([3, 487, 500]) 
+
+214 torch.Size([3, 333, 500]) 
+
+215 torch.Size([3, 500, 375]) 
+
+216 torch.Size([3, 375, 500]) 
+
+217 torch.Size([3, 500, 415]) 
+
+218 torch.Size([3, 270, 360]) 
+
+219 torch.Size([3, 382, 500]) 
+
+220 torch.Size([3, 333, 500]) 
+
+221 torch.Size([3, 372, 500]) 
+
+222 torch.Size([3, 500, 375]) 
+
+223 torch.Size([3, 332, 500]) 
+
+224 torch.Size([3, 374, 500]) 
+
+225 torch.Size([3, 375, 500]) 
+
+226 torch.Size([3, 333, 500]) 
+
+227 torch.Size([3, 375, 500]) 
+
+228 torch.Size([3, 426, 500]) 
+
+229 torch.Size([3, 333, 500]) 
+
+230 torch.Size([3, 375, 500]) 
+
+231 torch.Size([3, 375, 500]) 
+
+232 torch.Size([3, 236, 343]) 
+
+233 torch.Size([3, 272, 199]) 
+
+234 torch.Size([3, 137, 200]) 
+
+235 torch.Size([3, 238, 320]) 
+
+236 torch.Size([3, 256, 300]) 
+
+237 torch.Size([3, 445, 600]) 
+
+238 torch.Size([3, 1984, 1488]) 
+
+239 torch.Size([3, 261, 280]) 
+
+240 torch.Size([3, 323, 400]) 
+
+241 torch.Size([3, 160, 200]) 
+
+242 torch.Size([3, 705, 646]) 
+

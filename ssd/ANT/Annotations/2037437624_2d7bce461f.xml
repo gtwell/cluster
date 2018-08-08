@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bees</folder>
+	<filename>2037437624_2d7bce461f.jpg</filename>
+	<path>/home/guo/guo/data/hymenoptera_data/train/bees/2037437624_2d7bce461f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>444</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>239</ymin>
+			<xmax>325</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

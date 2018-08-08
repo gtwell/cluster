@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ants</folder>
+	<filename>707895295_009cf23188.jpg</filename>
+	<path>/home/guo/guo/data/hymenoptera_data/train/ants/707895295_009cf23188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>24</ymin>
+			<xmax>479</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

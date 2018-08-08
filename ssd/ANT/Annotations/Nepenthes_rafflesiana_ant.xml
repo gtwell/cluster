@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ants</folder>
+	<filename>Nepenthes_rafflesiana_ant.jpg</filename>
+	<path>/home/guo/guo/data/hymenoptera_data/train/ants/Nepenthes_rafflesiana_ant.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1488</width>
+		<height>1984</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>746</ymin>
+			<xmax>867</xmax>
+			<ymax>1112</ymax>
+		</bndbox>
+	</object>
+</annotation>
