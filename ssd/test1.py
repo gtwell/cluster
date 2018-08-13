@@ -13,6 +13,7 @@ from data.ant_test import ANTAnnotationTransform, ANTDetection, ANT_CLASSES
 from data import BaseTransform
 import torch.utils.data as data
 from ssd import build_ssd
+import cv2
 
 parser = argparse.ArgumentParser(description='Single Shot MultiBox Detection')
 parser.add_argument('--trained_model', default='weights/ssd300_ant_2900.pth',
@@ -54,7 +55,7 @@ def test_net(save_folder, net, cuda, testset, transform):
         pred_num = 0
         for i in range(detections.size(1)):
             j = 0
-            while detections[0, i, j, 0] >= 0.6:
+            while detections[0, i, j, 0] >= 0.5:
                 if pred_num == 0:
                     with open(filename, mode='a') as f:
                         f.write('PREDICTIONS: '+'\n')
@@ -62,6 +63,14 @@ def test_net(save_folder, net, cuda, testset, transform):
                 label_name = labelmap[i-1]
                 pt = (detections[0, i, j, 1:]*scale).cpu().numpy()
                 coords = (pt[0], pt[1], pt[2], pt[3])
+
+                img_ = cv2.imread('ANT/Testimages/{}.jpg'.format(img_id))
+                cv2.rectangle(img_, (coords[0], coords[1]),(coords[2], coords[3]), (0, 255, 0), 2)
+                cv2.putText(img_, str(label_name)+':'+str(score.item()), (coords[0], coords[1]),\
+                        cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+                cv2.imwrite(save_folder+'{}.jpg'.format(img_id), img_)
+
+
                 pred_num += 1
                 with open(filename, mode='a') as f:
                     f.write(str(img_id) + str(pred_num)+' label: '+label_name+' score: ' +
