@@ -43,6 +43,13 @@ def plot_rec(img, res, i):
     # (0, 255, 0) color, 2 linewidth
     for j in range(len(res)):
         cv2.rectangle(img, tuple(res[j][:2]), tuple(res[j][2:4]), (0, 255, 0), 2)
+		
+	# img_ = cv2.imread('ANT/Testimages/{}.jpg'.format(img_id))
+	# cv2.rectangle(img_, (coords[0], coords[1]),(coords[2], coords[3]), (0, 255, 0), 2)
+	# cv2.putText(img_, str(label_name)+':'+str(score.item()), (coords[0], coords[1]),\
+	# 								cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 1)
+	# cv2.imwrite(save_folder+'{}.jpg'.format(img_id), img_)
+	
     # cv2.rectangle(img, (100, 100), (200, 200), (0, 255, 0), 3)
     # cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
     # cv2.imshow("Image", img)
