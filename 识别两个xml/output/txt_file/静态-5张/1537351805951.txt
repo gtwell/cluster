@@ -1,0 +1,22 @@
+iou_lower:
+data_anno:
+214 101 325 369 haoliyou_pie
+data_gt:
+210 234 323 309 haoliyou_danpai
+0.27471083070452157
+label_not_matched:
+data_anno:
+61 156 192 226 moliqingcha
+data_gt:
+62 159 190 225 tianwo_fengmiyouzi
+label_not_matched:
+data_anno:
+387 39 501 162 tianwo_fengmiyouzi
+data_gt:
+388 35 506 170 moliqingcha
+anno_no_labeled:
+212 305 317 367 haoliyou_danpai
+anno_no_labeled:
+215 161 322 236 haoliyou_danpai
+anno_no_labeled:
+221 102 327 169 haoliyou_danpai

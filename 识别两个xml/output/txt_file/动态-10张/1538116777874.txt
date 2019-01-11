@@ -1,0 +1,6 @@
+iou_lower:
+data_anno:
+600 681 738 720 wangzai
+data_gt:
+681 682 741 720 wangzai
+0.39844988550290644
