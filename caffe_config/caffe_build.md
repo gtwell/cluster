@@ -17,6 +17,7 @@ make runtest -j8
 ###### 重新make需要进行
 make clean
 ```
-
+> cuda version: 10.0
+> opencv: 3.4.8
 #### 参考
 https://blog.csdn.net/qq_31347869/article/details/89469001
